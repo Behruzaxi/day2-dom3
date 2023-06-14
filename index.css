@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 1140px;
+    
+  }
+  
+  .ota {
+    margin-top: 100px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .frbox {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(20, 15, 15);
+  }
+  
+  .scbox {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(169, 105, 105);
+  }
+  
+  .rdbox {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(93, 152, 152);
+  }
+  
+  .buton {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 550px;
+    padding: 10px 25px;
+  }
+  
